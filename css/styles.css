@@ -24,7 +24,7 @@ html,
 body {
   height: 100%;
   background-color: #333;
-  background: url("/images/dawn.jpg");
+  background: url("images/dawn.jpg");
   background-size: 50%;
   background-position: center;
   font-family: 'Montserrat', sans-serif; }
